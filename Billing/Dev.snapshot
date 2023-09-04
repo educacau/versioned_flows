@@ -2642,7 +2642,7 @@
           "name" : "LogAttribute",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 576.0,
+            "x" : 608.0,
             "y" : 1720.0
           },
           "properties" : {
