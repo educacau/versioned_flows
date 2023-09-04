@@ -2222,7 +2222,7 @@
               "name" : "jolt-record-spec",
               "resourceDefinition" : {
                 "cardinality" : "SINGLE",
-                "resourceTypes" : [ "TEXT", "FILE" ]
+                "resourceTypes" : [ "FILE", "TEXT" ]
               },
               "sensitive" : false
             }
@@ -2642,7 +2642,7 @@
           "name" : "LogAttribute",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 600.0,
+            "x" : 576.0,
             "y" : 1720.0
           },
           "properties" : {
@@ -3096,7 +3096,7 @@
               "name" : "jolt-spec",
               "resourceDefinition" : {
                 "cardinality" : "SINGLE",
-                "resourceTypes" : [ "TEXT", "FILE" ]
+                "resourceTypes" : [ "FILE", "TEXT" ]
               },
               "sensitive" : false
             },
