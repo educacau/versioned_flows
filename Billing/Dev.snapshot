@@ -2529,8 +2529,8 @@
           "name" : "JoltTransformJSON",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 600.0,
-            "y" : 1496.0
+            "x" : 640.0,
+            "y" : 1488.0
           },
           "properties" : {
             "jolt-spec" : "[\n  {\n    \"operation\": \"shift\",\n    \"spec\": {\n      \"*\": \"Payload.&\"\n    }\n  },\n  {\n    \"operation\": \"default\",\n    \"spec\": {\n      \"Arquivo\": \"${filename}\",\n      \"Sucesso\": true,\n      \"Message\": \"Arquivo gerado com sucesso\"\n    }\n  }\n\n]",
