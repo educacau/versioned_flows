@@ -384,7 +384,7 @@
             "groupId" : "b7f482d5-2d97-39da-bb94-8d65df0b21ef",
             "id" : "7adb3c44-fb37-3c18-b535-99cb7c998f64",
             "instanceIdentifier" : "018a107b-785b-14f8-09b6-7b9a8c6a5c37",
-            "name" : "Formata Json",
+            "name" : "Formata Json via Jolt Transformarion",
             "type" : "PROCESSOR"
           },
           "zIndex" : 0
@@ -398,7 +398,7 @@
             "groupId" : "b7f482d5-2d97-39da-bb94-8d65df0b21ef",
             "id" : "7adb3c44-fb37-3c18-b535-99cb7c998f64",
             "instanceIdentifier" : "018a107b-785b-14f8-09b6-7b9a8c6a5c37",
-            "name" : "Formata Json",
+            "name" : "Formata Json via Jolt Transformarion",
             "type" : "PROCESSOR"
           },
           "flowFileExpiration" : "0 sec",
@@ -2265,7 +2265,7 @@
           "identifier" : "7adb3c44-fb37-3c18-b535-99cb7c998f64",
           "instanceIdentifier" : "018a107b-785b-14f8-09b6-7b9a8c6a5c37",
           "maxBackoffPeriod" : "10 mins",
-          "name" : "Formata Json",
+          "name" : "Formata Json via Jolt Transformarion",
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : 1240.0,
